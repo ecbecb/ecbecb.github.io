@@ -9,13 +9,13 @@
 
 main:
   - title: "Academic Background"
-    url: /academicbackground/
+    url: /publications/
 
   - title: "Journalism"
-    url: /journalism/    
+    url: /talks/    
 
   - title: "Relevant Publications"
-    url: /relevantpublications/    
+    url: /portfolio/    
     
   - #title: "Portfolio"
     #url: /portfolio/
