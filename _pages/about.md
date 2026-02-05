@@ -13,6 +13,6 @@ redirect_from:
   <div class="wordwrap">When we think of the word "madhouse," "sanatorium," "insane asylum," we think of a thing of the past. Of
   that era, long gone, of electroshock treatment and straightjackets, of lobotomies and the drilling of the skull. </div> <br> 
     <div class="wordwrap">This is the 21st century. </div> <br> 
-  
+  <br>
     
 
