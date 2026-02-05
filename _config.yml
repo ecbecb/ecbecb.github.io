@@ -321,6 +321,7 @@ whitelist:
   - jekyll-redirect-from
   - jemoji
 
+noindex: true
 
 # Archives
 #  Type
