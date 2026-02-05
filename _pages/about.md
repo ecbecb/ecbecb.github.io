@@ -7,10 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-  <div class="wordwrap">Student at <a href="https://www.barnard.edu/">Barnard College<a/>, <a href="https://www.columbia.edu/">Columbia University</a></div>
-  </br>
+  <div class="wordwrap">Student at <a href="https://www.barnard.edu/">Barnard College<a/>, <a href="https://www.columbia.edu/">Columbia University</a>
   <div class="wordwrap">Majors: Psychology and Human Rights</div>
-  </br>
+
   <div class="wordwrap">Majors: Psychology and Human Rights</div>
 
     
