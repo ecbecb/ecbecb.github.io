@@ -15,4 +15,8 @@ redirect_from:
     <div class="wordwrap">This is the 21st century. </div> <br> 
   <br>
     
+{% include base_path %}
 
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
