@@ -28,7 +28,7 @@ author:
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Short biography"
   location         : "New York, NY"
-  employer         : "Barnard College, Columbia University "
+  employer         : "Barnard College, <br> Columbia University "
   uri              : # URL
   email            : "ecb2214@barnard.edu" 
 
