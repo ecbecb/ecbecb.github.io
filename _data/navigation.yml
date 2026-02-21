@@ -11,10 +11,10 @@ main:
   - #title: "Academic Background"
     #url: /publications/
 
-  - title: "Journalism"
-    url: /talks/    
+  - #title: "Journalism"
+  #  url: /talks/    #
 
-  - title: "Selected Publications"
+  - title: "Portfolio"
     url: /portfolio/    
     
   - #title: "Portfolio"
