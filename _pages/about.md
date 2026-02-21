@@ -12,7 +12,7 @@ redirect_from:
 <br>Illuminating Triestine stories is crucial to preserve and share awareness on such a culture of integration, acceptance, and informal healing. 
 
 ![Oltre il Giardino Documentation Center](/images/archive.jpg)
-<div class="wordwrap">Trieste's Oltre il Giardino Documentation Center, an archive of texts related to these reforms.
-<br>Photo credit: Emma Burris, January 2026.</div>
+<div class="wordwrap" style="font-size: 10px;">Trieste's Oltre il Giardino Documentation Center, an archive of texts related to these reforms.
+<br>Image credits: Emma Burris, January 2026.</div>
 
 {% include base_path %}
