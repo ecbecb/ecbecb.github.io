@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fulbright-National Geographic Award Program"
+title: "Guerilla Mental Healthcare: Stories of the Psychiatric Deinstitutionalization Movement in Trieste"
 author_profile: true
 redirect_from: 
   - /about/
