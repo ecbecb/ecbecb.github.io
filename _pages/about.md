@@ -11,5 +11,7 @@ redirect_from:
 <br>Trieste, Italy, is a pioneer in this, known for being one of the very first cities to deliberately shut down its psychiatric hospital and shift treatment to open-door clinics. From the hospital's void grew increased community acceptance, vocational training and work placements, housing support, and the restitution of human rights for the formerly locked away.</div> <br> 
 
 ![Oltre il Giardino Documentation Center](/images/archive.jpg)
+<div class="wordwrap">Trieste's Oltre il Giardino Documentation Center, an archive of texts related to these reforms.
+<br>Photo credit: Emma Burris, January 2026.</div>
 
 {% include base_path %}
